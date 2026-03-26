@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1774529655 source:d:\lab1.5\main.cpp
+	<iostream>
+	<limits>
+
